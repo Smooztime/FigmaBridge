@@ -122,6 +122,127 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1001 &131980533
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 180355877}
+    m_Modifications:
+    - target: {fileID: 4257388629248649494, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
+      propertyPath: m_Name
+      value: Sega intro
+      objectReference: {fileID: 0}
+    - target: {fileID: 6386023895095847173, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6386023895095847173, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6733507581726742484, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
+      propertyPath: m_fontColor32.rgba
+      value: 4294929201
+      objectReference: {fileID: 0}
+    - target: {fileID: 6733507581726742484, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
+      propertyPath: m_TextStyleHashCode
+      value: -1183493901
+      objectReference: {fileID: 0}
+    - target: {fileID: 8261811763753855370, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
+      propertyPath: m_fontColor32.rgba
+      value: 4294929201
+      objectReference: {fileID: 0}
+    - target: {fileID: 8261811763753855370, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
+      propertyPath: m_TextStyleHashCode
+      value: -1183493901
+      objectReference: {fileID: 0}
+    - target: {fileID: 9143477865055838575, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
+      propertyPath: m_Pivot.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9143477865055838575, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
+      propertyPath: m_Pivot.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9143477865055838575, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9143477865055838575, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9143477865055838575, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9143477865055838575, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9143477865055838575, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9143477865055838575, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9143477865055838575, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9143477865055838575, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9143477865055838575, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9143477865055838575, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9143477865055838575, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9143477865055838575, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9143477865055838575, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9143477865055838575, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9143477865055838575, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9143477865055838575, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9143477865055838575, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9143477865055838575, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
 --- !u!1 &180355876
 GameObject:
   m_ObjectHideFlags: 0
@@ -150,7 +271,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 436524402}
+  - {fileID: 1643697228}
   m_Father: {fileID: 1084797475}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -226,147 +347,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &436524400
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 180355877}
-    m_Modifications:
-    - target: {fileID: 1063088730960816434, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
-      propertyPath: m_Pivot.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1063088730960816434, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
-      propertyPath: m_Pivot.y
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1063088730960816434, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
-      propertyPath: m_AnchorMax.x
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1063088730960816434, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
-      propertyPath: m_AnchorMax.y
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1063088730960816434, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
-      propertyPath: m_AnchorMin.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1063088730960816434, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
-      propertyPath: m_AnchorMin.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1063088730960816434, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
-      propertyPath: m_SizeDelta.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1063088730960816434, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
-      propertyPath: m_SizeDelta.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1063088730960816434, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1063088730960816434, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1063088730960816434, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1063088730960816434, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1063088730960816434, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1063088730960816434, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1063088730960816434, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1063088730960816434, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1063088730960816434, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1063088730960816434, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1063088730960816434, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1063088730960816434, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3391864938407037742, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
-      propertyPath: m_Name
-      value: Sega intro
-      objectReference: {fileID: 0}
-    - target: {fileID: 4944471524500185925, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
-      propertyPath: m_Enabled
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5927688321309949877, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
-      propertyPath: m_SizeDelta.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5927688321309949877, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
-      propertyPath: m_SizeDelta.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7620243779592727407, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
-      propertyPath: m_Enabled
-      value: 1
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 3391864938407037742, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 436524408}
-  m_SourcePrefab: {fileID: 100100000, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
---- !u!1 &436524401 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 3391864938407037742, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
-  m_PrefabInstance: {fileID: 436524400}
-  m_PrefabAsset: {fileID: 0}
---- !u!224 &436524402 stripped
-RectTransform:
-  m_CorrespondingSourceObject: {fileID: 1063088730960816434, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
-  m_PrefabInstance: {fileID: 436524400}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &436524408
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 436524401}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 47361c66e45fe814abccec634adbe413, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  ScreenEventSO: {fileID: 11400000, guid: d5758ba32c1deb84a8bd019323423a69, type: 2}
-  direction: 0
-  m_TargetScreenNodeId: 4:3
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -459,64 +439,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &703914672
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 703914674}
-  - component: {fileID: 703914673}
-  m_Layer: 0
-  m_Name: Test
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &703914673
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 703914672}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 47361c66e45fe814abccec634adbe413, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  ScreenEventSO: {fileID: 11400000, guid: d5758ba32c1deb84a8bd019323423a69, type: 2}
-  direction: 0
-  m_TargetScreenNodeId: 121212
---- !u!4 &703914674
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 703914672}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.88888955, y: 0.3829153, z: -0.07590875}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &739576096 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 6892956003890051072, guid: d7963c2a080cd9942831d2d3823dfb97, type: 3}
-  m_PrefabInstance: {fileID: 1220906133}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 52bf4d995684410cb5acc4e8f1e00ba8, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!224 &739576100 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 6892956003890051086, guid: d7963c2a080cd9942831d2d3823dfb97, type: 3}
@@ -626,140 +548,152 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_ScreenParentTransform: {fileID: 180355877}
-  m_TransitionEffect: {fileID: 739576096}
-  m_CurrentScreenInstance: {fileID: 436524401}
-  m_PrototypeFlowInitialScreenId: 1:2
+  m_TransitionEffect: {fileID: 0}
+  m_CurrentScreenInstance: {fileID: 1643697222}
+  m_PrototypeFlowInitialScreenId: 1
   m_Screens:
-  - FigmaNodeId: 5:384
-    FigmaScreenPrefab: {fileID: 5072898072930519216, guid: 17c1ecef15ff7154fa55a1a264ddf9c4, type: 3}
+  - FigmaNodeId: 7
+    FigmaScreenPrefab: {fileID: 8582997270252556848, guid: 17c1ecef15ff7154fa55a1a264ddf9c4, type: 3}
     FigmaScreenName: Normal Game setup _ Height
     ParentSectionNodeId: 
-  - FigmaNodeId: 5:487
-    FigmaScreenPrefab: {fileID: 6977330053391888806, guid: bd6f4b1b1daef334dad4b54f7d823354, type: 3}
+  - FigmaNodeId: 9
+    FigmaScreenPrefab: {fileID: 2863167549036438295, guid: bd6f4b1b1daef334dad4b54f7d823354, type: 3}
     FigmaScreenName: Normal Game setup _ Next block true
     ParentSectionNodeId: 
-  - FigmaNodeId: 5:521
-    FigmaScreenPrefab: {fileID: 6053147681750430916, guid: 568e22977ead37c488a5f14045d6df65, type: 3}
+  - FigmaNodeId: 15
+    FigmaScreenPrefab: {fileID: 3122505128728675216, guid: 568e22977ead37c488a5f14045d6df65, type: 3}
     FigmaScreenName: Normal Game setup _ Next Block false
     ParentSectionNodeId: 
-  - FigmaNodeId: 5:552
-    FigmaScreenPrefab: {fileID: 2563713696953002329, guid: 29d025730e441b741ac5b6af8c58cb15, type: 3}
+  - FigmaNodeId: 10
+    FigmaScreenPrefab: {fileID: 5370906995709501968, guid: 29d025730e441b741ac5b6af8c58cb15, type: 3}
     FigmaScreenName: Normal Game setup _ Item block but Next block true
     ParentSectionNodeId: 
-  - FigmaNodeId: 5:582
-    FigmaScreenPrefab: {fileID: 6774126008024799711, guid: db5c2853ac29ca64db8815511bf44960, type: 3}
+  - FigmaNodeId: 16
+    FigmaScreenPrefab: {fileID: 4495551867036335743, guid: db5c2853ac29ca64db8815511bf44960, type: 3}
     FigmaScreenName: Normal Game setup _ Item block but Next block false
     ParentSectionNodeId: 
-  - FigmaNodeId: 5:854
-    FigmaScreenPrefab: {fileID: 7442819496717663205, guid: 8e81d196bc04ff94da342a9892ade453, type: 3}
+  - FigmaNodeId: 11
+    FigmaScreenPrefab: {fileID: 1599007763875415442, guid: 8e81d196bc04ff94da342a9892ade453, type: 3}
     FigmaScreenName: In - Normal Game _ Next block True
     ParentSectionNodeId: 
-  - FigmaNodeId: 5:966
-    FigmaScreenPrefab: {fileID: 617058668126325715, guid: 8c96fac87029bc042af5175f96e6c54c, type: 3}
+  - FigmaNodeId: 17
+    FigmaScreenPrefab: {fileID: 9115702906288045410, guid: 8c96fac87029bc042af5175f96e6c54c, type: 3}
     FigmaScreenName: In - Normal Game _ Next block false
     ParentSectionNodeId: 
-  - FigmaNodeId: 5:1026
-    FigmaScreenPrefab: {fileID: 110475088707986498, guid: c2f368ff1df71e649997e49edc86ecf9, type: 3}
+  - FigmaNodeId: 13
+    FigmaScreenPrefab: {fileID: 315818131652774767, guid: c2f368ff1df71e649997e49edc86ecf9, type: 3}
     FigmaScreenName: In - Normal Game _ Next block True Pause Menu _ Resume
     ParentSectionNodeId: 
-  - FigmaNodeId: 5:1391
-    FigmaScreenPrefab: {fileID: 489078045287458387, guid: 130c8d85784ef54469abbc6212f4218b, type: 3}
+  - FigmaNodeId: 19
+    FigmaScreenPrefab: {fileID: 6738388610004392589, guid: 130c8d85784ef54469abbc6212f4218b, type: 3}
     FigmaScreenName: In - Normal Game _ Next block false Pause Menu _ Resume
     ParentSectionNodeId: 
-  - FigmaNodeId: 5:1428
-    FigmaScreenPrefab: {fileID: 5898358076928160121, guid: b46c7537bb0d879449b29d5e48e49c50, type: 3}
+  - FigmaNodeId: 25
+    FigmaScreenPrefab: {fileID: 4052220684966233193, guid: b46c7537bb0d879449b29d5e48e49c50, type: 3}
     FigmaScreenName: In - Time Trial _ Next block True Pause Menu _ Resume
     ParentSectionNodeId: 
-  - FigmaNodeId: 5:1436
-    FigmaScreenPrefab: {fileID: 3319362530061972521, guid: eab3e31f7d1471543a8dd333e3516993, type: 3}
+  - FigmaNodeId: 31
+    FigmaScreenPrefab: {fileID: 6054816877649069648, guid: eab3e31f7d1471543a8dd333e3516993, type: 3}
     FigmaScreenName: In - Time Trial _ Next block false Pause Menu _ Resume
     ParentSectionNodeId: 
-  - FigmaNodeId: 5:1500
-    FigmaScreenPrefab: {fileID: 6653288661566508654, guid: c65fd805e25236b40a99aac46dc42733, type: 3}
+  - FigmaNodeId: 14
+    FigmaScreenPrefab: {fileID: 1006539051992775811, guid: c65fd805e25236b40a99aac46dc42733, type: 3}
     FigmaScreenName: In - Normal Game _ Next block True Pause Menu _ Restart
     ParentSectionNodeId: 
-  - FigmaNodeId: 5:1508
-    FigmaScreenPrefab: {fileID: 2668548131836317302, guid: 5b2316b706868fb4184f4728223a6494, type: 3}
+  - FigmaNodeId: 20
+    FigmaScreenPrefab: {fileID: 8067283126576686972, guid: 5b2316b706868fb4184f4728223a6494, type: 3}
     FigmaScreenName: In - Normal Game _ Next block false Pause Menu _ Restart
     ParentSectionNodeId: 
-  - FigmaNodeId: 5:1516
-    FigmaScreenPrefab: {fileID: 3938316554012584232, guid: b5fc7cb615fa4fc4e844f998a9d3bb8f, type: 3}
+  - FigmaNodeId: 26
+    FigmaScreenPrefab: {fileID: 7170859808154821573, guid: b5fc7cb615fa4fc4e844f998a9d3bb8f, type: 3}
     FigmaScreenName: In - Time Trial _ Next block True Pause Menu _ Restart
     ParentSectionNodeId: 
-  - FigmaNodeId: 5:1577
-    FigmaScreenPrefab: {fileID: 6082538186250032333, guid: 592d08c65489f6140b4fb9061c4ec0e3, type: 3}
+  - FigmaNodeId: 33-1
+    FigmaScreenPrefab: {fileID: 5904610293323554962, guid: 592d08c65489f6140b4fb9061c4ec0e3, type: 3}
     FigmaScreenName: Pause Menu _ Game Mode
     ParentSectionNodeId: 
-  - FigmaNodeId: 5:1524
-    FigmaScreenPrefab: {fileID: 1346308458706434815, guid: b26551c3078dd3448819f95930847798, type: 3}
+  - FigmaNodeId: 32
+    FigmaScreenPrefab: {fileID: 2802507572642539066, guid: b26551c3078dd3448819f95930847798, type: 3}
     FigmaScreenName: In - Time Trial _ Next block false Pause Menu _ Restart
     ParentSectionNodeId: 
-  - FigmaNodeId: 5:983
-    FigmaScreenPrefab: {fileID: 1162276854707309070, guid: eb78104be22fba0478beef0ea14bcf9a, type: 3}
+  - FigmaNodeId: 23
+    FigmaScreenPrefab: {fileID: 8823933807550016644, guid: eb78104be22fba0478beef0ea14bcf9a, type: 3}
     FigmaScreenName: In - Time Trial _ Next block True
     ParentSectionNodeId: 
-  - FigmaNodeId: 5:996
-    FigmaScreenPrefab: {fileID: 7207850728251724211, guid: b8867de2dd9687a4f96b00baadd19c21, type: 3}
+  - FigmaNodeId: 29
+    FigmaScreenPrefab: {fileID: 4786861856285878181, guid: b8867de2dd9687a4f96b00baadd19c21, type: 3}
     FigmaScreenName: In - Time Trial _ Next block false
     ParentSectionNodeId: 
-  - FigmaNodeId: 5:1264
-    FigmaScreenPrefab: {fileID: 389349659927423801, guid: e564149cbc50108439d039a6f1390a28, type: 3}
+  - FigmaNodeId: 12
+    FigmaScreenPrefab: {fileID: 9140349969577264839, guid: e564149cbc50108439d039a6f1390a28, type: 3}
     FigmaScreenName: In - Normal Game _ Next block True_1
     ParentSectionNodeId: 
-  - FigmaNodeId: 5:1278
-    FigmaScreenPrefab: {fileID: 938719455966170513, guid: 52132fd63b2d17944937105e23a0eeaa, type: 3}
+  - FigmaNodeId: 18
+    FigmaScreenPrefab: {fileID: 1907774080427108519, guid: 52132fd63b2d17944937105e23a0eeaa, type: 3}
     FigmaScreenName: In - Normal Game _ Next block false_1
     ParentSectionNodeId: 
-  - FigmaNodeId: 5:1290
-    FigmaScreenPrefab: {fileID: 948484197019133547, guid: 2cce8cf83f2620445ae3c6935784a121, type: 3}
+  - FigmaNodeId: 24
+    FigmaScreenPrefab: {fileID: 8125070683317872405, guid: 2cce8cf83f2620445ae3c6935784a121, type: 3}
     FigmaScreenName: In - Time Trial _ Next block True_1
     ParentSectionNodeId: 
-  - FigmaNodeId: 5:1307
-    FigmaScreenPrefab: {fileID: 2151234350451538700, guid: 74c775a567e7dad4b8b6baa52afd0792, type: 3}
+  - FigmaNodeId: 30
+    FigmaScreenPrefab: {fileID: 1394372712137236807, guid: 74c775a567e7dad4b8b6baa52afd0792, type: 3}
     FigmaScreenName: In - Time Trial _ Next block false_1
     ParentSectionNodeId: 
-  - FigmaNodeId: 5:421
-    FigmaScreenPrefab: {fileID: 8825314692533735910, guid: 5d9f1820edc822c4b9d3799be1a6d047, type: 3}
+  - FigmaNodeId: 5
+    FigmaScreenPrefab: {fileID: 8154239466795635013, guid: 5d9f1820edc822c4b9d3799be1a6d047, type: 3}
     FigmaScreenName: Normal Game setup _ Level
     ParentSectionNodeId: 
-  - FigmaNodeId: 5:617
-    FigmaScreenPrefab: {fileID: 6042917526071022095, guid: b0c11db199a73464996c275533570fe5, type: 3}
+  - FigmaNodeId: 8
+    FigmaScreenPrefab: {fileID: 5289466506037767494, guid: b0c11db199a73464996c275533570fe5, type: 3}
     FigmaScreenName: Time trial setup _ Height
     ParentSectionNodeId: 
-  - FigmaNodeId: 5:644
-    FigmaScreenPrefab: {fileID: 7737014105263484627, guid: 3d1400315785ddb498bb37daecf9f05c, type: 3}
+  - FigmaNodeId: 21
+    FigmaScreenPrefab: {fileID: 1709549932389410792, guid: 3d1400315785ddb498bb37daecf9f05c, type: 3}
     FigmaScreenName: Time trial setup _ Next block true
     ParentSectionNodeId: 
-  - FigmaNodeId: 5:672
-    FigmaScreenPrefab: {fileID: 1514818474130837060, guid: 9001230d6d2b2694db17a28533eef9c1, type: 3}
+  - FigmaNodeId: 27
+    FigmaScreenPrefab: {fileID: 6199615851062770436, guid: 9001230d6d2b2694db17a28533eef9c1, type: 3}
     FigmaScreenName: Time trial setup _ Next Block false
     ParentSectionNodeId: 
-  - FigmaNodeId: 5:700
-    FigmaScreenPrefab: {fileID: 8422462281813614867, guid: 006c53a54ff1e504ea7db76a7e5a6d1e, type: 3}
+  - FigmaNodeId: 22
+    FigmaScreenPrefab: {fileID: 3903468708859701723, guid: 006c53a54ff1e504ea7db76a7e5a6d1e, type: 3}
     FigmaScreenName: Time trial setup _ Item block but Next block true
     ParentSectionNodeId: 
-  - FigmaNodeId: 5:729
-    FigmaScreenPrefab: {fileID: 6520319302169110193, guid: 41ce03ab8ced0b04c8790ecfdb9388fd, type: 3}
+  - FigmaNodeId: 28
+    FigmaScreenPrefab: {fileID: 9216917989483138039, guid: 41ce03ab8ced0b04c8790ecfdb9388fd, type: 3}
     FigmaScreenName: Time trial setup _ Item block but Next block false
     ParentSectionNodeId: 
-  - FigmaNodeId: 5:758
-    FigmaScreenPrefab: {fileID: 3301282596903542521, guid: a19b58867bd7be1448bf0938bd4eeb4c, type: 3}
+  - FigmaNodeId: 6
+    FigmaScreenPrefab: {fileID: 6624836537606082743, guid: a19b58867bd7be1448bf0938bd4eeb4c, type: 3}
     FigmaScreenName: Time trial setup _ Level
     ParentSectionNodeId: 
-  - FigmaNodeId: 4:68
-    FigmaScreenPrefab: {fileID: 4641274944476847247, guid: c6de67183189140408e31bb711818198, type: 3}
+  - FigmaNodeId: 3
+    FigmaScreenPrefab: {fileID: 3260382788629437187, guid: c6de67183189140408e31bb711818198, type: 3}
     FigmaScreenName: Game Mode Select - Normal Game
     ParentSectionNodeId: 
-  - FigmaNodeId: 5:359
-    FigmaScreenPrefab: {fileID: 4563592530384074834, guid: 24628641d87b4e448b0a353730205ea0, type: 3}
+  - FigmaNodeId: 4
+    FigmaScreenPrefab: {fileID: 3660670208686679023, guid: 24628641d87b4e448b0a353730205ea0, type: 3}
     FigmaScreenName: Game Mode Select - Time Trial
     ParentSectionNodeId: 
-  - FigmaNodeId: 4:3
-    FigmaScreenPrefab: {fileID: 6913631577000347105, guid: a2d4c1dcc5914414fb8bbb84b936ae2f, type: 3}
+  - FigmaNodeId: 2
+    FigmaScreenPrefab: {fileID: 7914460314382678429, guid: a2d4c1dcc5914414fb8bbb84b936ae2f, type: 3}
     FigmaScreenName: Main Menu
     ParentSectionNodeId: 
-  - FigmaNodeId: 1:2
-    FigmaScreenPrefab: {fileID: 3391864938407037742, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
+  - FigmaNodeId: 1
+    FigmaScreenPrefab: {fileID: 4257388629248649494, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
+    FigmaScreenName: Sega intro
+    ParentSectionNodeId: 
+  - FigmaNodeId: 33-2
+    FigmaScreenPrefab: {fileID: 5904610293323554962, guid: e7459bcf1bb0dc748b5f465c17cd80ab, type: 3}
+    FigmaScreenName: Sega intro
+    ParentSectionNodeId: 
+  - FigmaNodeId: 33-3
+    FigmaScreenPrefab: {fileID: 5904610293323554962, guid: 9a010d67f89a99f46be9aafe7760fbc2, type: 3}
+    FigmaScreenName: Sega intro
+    ParentSectionNodeId: 
+  - FigmaNodeId: 33-4
+    FigmaScreenPrefab: {fileID: 5904610293323554962, guid: 7184c297c293d8a4c9b0166728e6f4f8, type: 3}
     FigmaScreenName: Sega intro
     ParentSectionNodeId: 
   m_Sections: []
@@ -832,6 +766,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1084797475}
     m_Modifications:
+    - target: {fileID: 6892956003890051072, guid: d7963c2a080cd9942831d2d3823dfb97, type: 3}
+      propertyPath: m_TransitionEffectAnimator
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 6892956003890051085, guid: d7963c2a080cd9942831d2d3823dfb97, type: 3}
       propertyPath: m_Name
       value: TransitionFadeToBlack
@@ -921,6 +859,16 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d7963c2a080cd9942831d2d3823dfb97, type: 3}
+--- !u!1 &1643697222 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4257388629248649494, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
+  m_PrefabInstance: {fileID: 131980533}
+  m_PrefabAsset: {fileID: 0}
+--- !u!224 &1643697228 stripped
+RectTransform:
+  m_CorrespondingSourceObject: {fileID: 9143477865055838575, guid: caf182bd070a94e4582d3dc7d8115aa7, type: 3}
+  m_PrefabInstance: {fileID: 131980533}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -928,5 +876,4 @@ SceneRoots:
   - {fileID: 519420032}
   - {fileID: 1084797475}
   - {fileID: 434836059}
-  - {fileID: 703914674}
   - {fileID: 1041430716}

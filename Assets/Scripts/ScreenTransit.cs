@@ -3,11 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityFigmaBridge.Runtime.UI;
 
-public class Screenlistener : MonoBehaviour
+public class ScreenTransit : MonoBehaviour
 {
-    public ScreenEventSO ScreenEventSO;
-    [SerializeField] private Direction direction;
-
+    [SerializeField] private float seconds;
 
     [SerializeField] private string m_TargetScreenNodeId;
     public string TargetScreenNodeId
@@ -16,32 +14,14 @@ public class Screenlistener : MonoBehaviour
         set => m_TargetScreenNodeId = value;
     }
 
-    private void OnEnable()
+    private void Start()
     {
-        switch (direction)
-        {
-            case Direction.Up:
-                ScreenEventSO.UP += Transition;
-                break;
-
-        }
+        StartCoroutine(Transition());
     }
 
-    private void OnDisable()
+    private IEnumerator Transition()
     {
-        switch (direction)
-        {
-            case Direction.Up:
-                ScreenEventSO.UP -= Transition;
-                break;
-
-        }
-
-
-    }
-
-    public void Transition()
-    {
+        yield return new WaitForSeconds(seconds);
         // Get prototype flow controller (assumed attached to root canvas)
         var prototypeFlowController =
             GetComponentInParent<Canvas>().rootCanvas?.GetComponent<PrototypeFlowController>();
@@ -49,5 +29,4 @@ public class Screenlistener : MonoBehaviour
         if (prototypeFlowController != null)
             prototypeFlowController.TransitionToScreenById(TargetScreenNodeId);
     }
-
 }

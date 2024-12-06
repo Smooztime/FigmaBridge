@@ -19,8 +19,6 @@ public class ScreenEventSO : ScriptableObject
     public UnityAction LRotate;
     public UnityAction Open;
 
-    public UnityEvent Close;
-
 
     public void InvokeEvent(Direction direction)
     {
@@ -32,24 +30,31 @@ public class ScreenEventSO : ScriptableObject
                 break;
             case Direction.Down:
                 DOWN?.Invoke();
+                Debug.Log("down invoked");
                 break;
             case Direction.Left:
                 Left?.Invoke();
+                Debug.Log("left invoked");
                 break;
             case Direction.Right:
                 Right?.Invoke();
+                Debug.Log("right invoked");
                 break;
             case Direction.Enter:
                 Enter?.Invoke();
+                Debug.Log("enter invoked");
                 break;
             case Direction.RRotate:
                 RRotate?.Invoke();
+                Debug.Log("RRotate invoked");
                 break;
             case Direction.LRotate:
                 LRotate?.Invoke();
+                Debug.Log("LRotate invoked");
                 break;
             case Direction.Open:
                 Open?.Invoke();
+                Debug.Log("Open invoked");
                 break;
             default:
                 break;
